@@ -1,3 +1,5 @@
+**Note**: Solutions for exercises
+
 <a href="https://totaltypescript.com"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1662641493/beginners-typescript-tutorial/github_2x_vxqai9.png" alt="beginner typescript tutorial" /></a>
 
 ## Quickstart
